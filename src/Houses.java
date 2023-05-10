@@ -48,4 +48,5 @@ public class Houses {
         return (Math.random() + (plusOrMinus() * (getLocation() / 5.0 )));
     }
 
+
 }
