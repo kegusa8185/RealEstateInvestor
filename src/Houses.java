@@ -1,8 +1,4 @@
 public class Houses {
-    public static void main(String[] args) {
-        new Houses();
-    }
-
     private int bed;
     private double bath;
     private int sqft;
